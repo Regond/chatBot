@@ -229,7 +229,7 @@ public class Chat extends JPanel {
 	  }
 	});
 	}
-	//звук відправки смс
+	//звук відправки повідомлення
 	public void sendSound() {
 		try {
 		File sound = new File("notification.wav");
